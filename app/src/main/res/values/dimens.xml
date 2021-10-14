@@ -1,0 +1,122 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="nav_rounded_corner">24dp</dimen>
+
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <dimen name="action_bar_icon_padding">16dp</dimen>
+
+    <dimen name="title_height">148dp</dimen>
+    <dimen name="number_picker_height">124dp</dimen>
+    <dimen name="divider_height">0.8dp</dimen>
+    <dimen name="progress_bar">4dp</dimen>
+
+    <dimen name="movie_list_height">240dp</dimen>
+
+    <dimen name="image_view_height">320dp</dimen>
+
+    <dimen name="bottom_sheet_height">340dp</dimen>
+    <dimen name="bottom_sheet_item_height">56dp</dimen>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+
+    <dimen name="tab_indicator_radius_default">2dp</dimen>
+    <dimen name="tab_indicator_radius_selected">4dp</dimen>
+    <dimen name="tab_indicator_dots_height_default">2dp</dimen>
+    <dimen name="tab_indicator_dots_height_selected">4dp</dimen>
+
+    <dimen name="icon_button_x_tiny">14dp</dimen>
+    <dimen name="icon_button_tiny">18dp</dimen>
+    <dimen name="icon_button_small">24dp</dimen>
+    <dimen name="icon_button_default">32dp</dimen>
+    <dimen name="icon_button_normal">36dp</dimen>
+    <dimen name="icon_button_x_normal">48dp</dimen>
+    <dimen name="icon_button_big">56dp</dimen>
+
+    <dimen name="icon_tiny">12dp</dimen>
+    <dimen name="icon_small_3">14dp</dimen>
+    <dimen name="icon_small_2">16dp</dimen>
+    <dimen name="icon_small">18dp</dimen>
+    <dimen name="icon_default">24dp</dimen>
+    <dimen name="icon_medium">36dp</dimen>
+    <dimen name="icon_medium_2">48dp</dimen>
+    <dimen name="icon_medium_3">56dp</dimen>
+    <dimen name="icon_medium_4">72dp</dimen>
+    <dimen name="icon_medium_5">88dp</dimen>
+    <dimen name="icon_big">96dp</dimen>
+
+    <dimen name="icon_normal_padding">12dp</dimen>
+
+    <dimen name="neg_margin_medium">-8dp</dimen>
+    <dimen name="neg_margin_medium_2">-16dp</dimen>
+    <dimen name="neg_margin_medium_3">-18dp</dimen>
+
+    <dimen name="margin_tiny">2dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_medium_1">12dp</dimen>
+    <dimen name="margin_medium_2">16dp</dimen>
+    <dimen name="margin_medium_3">18dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+    <dimen name="margin_xlarge">32dp</dimen>
+    <dimen name="margin_2xlarge">40dp</dimen>
+    <dimen name="margin_3xlarge">48dp</dimen>
+    <dimen name="margin_ultra">56dp</dimen>
+    <dimen name="margin_xUltra">64dp</dimen>
+    <dimen name="margin_2xUltra">72dp</dimen>
+    <dimen name="margin_3xUltra">80dp</dimen>
+    <dimen name="margin_super">108dp</dimen>
+    <dimen name="margin_super_xxx">172dp</dimen>
+
+    <dimen name="margin_comment">64dp</dimen>
+
+    <dimen name="pager_padding">0dp</dimen>
+    <dimen name="tab_elevation">4dp</dimen>
+    <dimen name="tab_indicator_height">3dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_min_width">72dp</dimen>
+    <dimen name="tab_padding_top">4dp</dimen>
+    <dimen name="tab_padding_bottom">8dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">56dp</dimen>
+
+    <dimen name="card_heading_height">72dp</dimen>
+    <dimen name="card_default_elevation">2dp</dimen>
+    <dimen name="card_rising_elevation">8dp</dimen>
+    <dimen name="card_small_corner_radius">4dp</dimen>
+    <dimen name="card_default_corner_radius">8dp</dimen>
+    <dimen name="card_big_corner_radius">16dp</dimen>
+    <dimen name="card_x_big_corner_radius">24dp</dimen>
+    <dimen name="card_2x_big_corner_radius">32dp</dimen>
+
+    <dimen name="text_tiny">10sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_regular">14sp</dimen>
+    <dimen name="text_regular_2x">16sp</dimen>
+    <dimen name="text_regular_2_5x">18sp</dimen>
+    <dimen name="text_regular_3x">20sp</dimen>
+    <dimen name="text_heading_1x">24sp</dimen>
+    <dimen name="text_heading_1_5x">28sp</dimen>
+    <dimen name="text_heading_2x">32sp</dimen>
+    <dimen name="text_big">40sp</dimen>
+    <dimen name="text_big_2x">60sp</dimen>
+    <dimen name="text_big_3x">80sp</dimen>
+
+    <dimen name="media_button_small_width">71dp</dimen>
+    <dimen name="media_button_medium_width">106dp</dimen>
+    <dimen name="media_button_big_width">142dp</dimen>
+    <dimen name="media_button_x_big_width">213dp</dimen>
+    <dimen name="media_button_small_height">52dp</dimen>
+    <dimen name="media_button_medium_height">78dp</dimen>
+    <dimen name="media_button_big_height">104dp</dimen>
+    <dimen name="media_button_x_big_height">156dp</dimen>
+
+    <dimen name="expand_app_bar_size">98dp</dimen>
+
+</resources>
